@@ -1,4 +1,4 @@
-background{
+.background{
   background-color: black;
   text-align: center;
 }
@@ -14,17 +14,19 @@ h2 {
   font-family: verdana;
   font-weight: 300;
   font-size: 42px;
+  color: white;
 }
 body {
   font-family: verdana;
   font-size: 21px;
+  font-weight: normal;
   color:gray;
 }
-link-text {
+a {
   color: aquamarine;
   font-size: 16px;
 }
-copyright-logo {
+.copyright-logo {
   font-family: verdana;
   font-size: 21px;
   color:gray;
